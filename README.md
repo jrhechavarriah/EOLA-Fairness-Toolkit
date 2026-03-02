@@ -6,5 +6,6 @@ This repository provides an end-to-end, modular Python pipeline that integrates:
 - SHAP-based global and local explainability diagnostics
 - Multi-objective accuracy–fairness trade-off analysis via Pareto optimization
 - Governance-aligned model selection under policy-calibrated fairness constraints (τ)
+
 The toolkit includes synthetic data generation for reproducible methodological validation and scripted figure reproduction aligned with the associated academic manuscript.
 EOLA reframes Early Warning Systems from performance-driven analytics toward accountable, equity-centered institutional AI governance infrastructures.
