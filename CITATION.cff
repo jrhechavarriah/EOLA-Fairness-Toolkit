@@ -1,7 +1,33 @@
 cff-version: 1.2.0
-title: "EOLA Fairness Toolkit"
+title: "EOLA Fairness Toolkit: Reproducible Fairness-Aware and Explainable Learning Analytics Architecture"
+message: "If you use this software, please cite it as follows."
+type: software
 authors:
-  - family-names: Hechavarría
-    given-names: Jesús Rafael
+  - family-names: Hechavarria-Hernandez
+    given-names: Jesus Rafael
+    affiliation: Universidad ECOTEC
+    orcid: https://orcid.org/0000-0002-9013-8665
 version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
 date-released: 2026-03-02
+url: https://github.com/jrhechavarriah/EOLA-Fairness-Toolkit
+repository-code: https://github.com/jrhechavarriah/EOLA-Fairness-Toolkit
+license: MIT
+keywords:
+  - Learning Analytics
+  - Early Warning Systems
+  - Algorithmic Fairness
+  - Explainable AI
+  - SHAP
+  - Multi-Objective Optimization
+  - Higher Education
+  - Reproducible Research
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Hechavarria-Hernandez
+      given-names: Jesus Rafael
+  title: "A Reproducible Fairness-Aware and Explainable Learning Analytics Architecture for Multi-Objective Early Warning Systems in Online Higher Education"
+  journal: "Education and Information Technologies"
+  year: 2026
