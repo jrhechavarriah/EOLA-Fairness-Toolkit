@@ -7,8 +7,13 @@ authors:
     given-names: Jesus Rafael
     affiliation: Universidad ECOTEC
     orcid: https://orcid.org/0000-0002-9013-8665
+  - family-names: Smarandache
+    given-names: Florentin
+    affiliation: University of New Mexico
+    orcid: https://orcid.org/0000-0002-5560-5926
+
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.18842293
 date-released: 2026-03-02
 url: https://github.com/jrhechavarriah/EOLA-Fairness-Toolkit
 repository-code: https://github.com/jrhechavarriah/EOLA-Fairness-Toolkit
@@ -28,6 +33,8 @@ preferred-citation:
   authors:
     - family-names: Hechavarria-Hernandez
       given-names: Jesus Rafael
+    - family-names: Smarandache
+      given-names: Florentin
   title: "A Reproducible Fairness-Aware and Explainable Learning Analytics Architecture for Multi-Objective Early Warning Systems in Online Higher Education"
-  journal: "Education and Information Technologies"
+  journal: "Education and Information Technologies". https://doi.org/10.5281/zenodo.18842293
   year: 2026
